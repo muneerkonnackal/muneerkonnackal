@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneerkonnackal" alt="muneerkonnackal" /></a> </p>
 
-- 🔭 I’m currently working on **Remitbae**
+- 🔭 I’m currently working on **Frontend Developer @ Talrop**
 
 - 🌱 I’m currently learning **Go**
 
